@@ -1,0 +1,82 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cabin', sans-serif;
+  color: rgba(66, 122, 161, 1) ;
+}
+
+h1 {
+  color: rgba(5, 102, 141, 1);
+  text-align: center;
+}
+
+h2 {
+  color: rgba(66, 122, 161, 1)
+  font-weight: 900;
+  text-align: center;
+}
+
+h3 {
+  color: rgba(1, 111, 185, 1);
+  text-align: center
+}
+
+.section, .table-head {
+  background-color: rgba(235, 242, 250, .5);
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin: 15px 15%;
+  box-shadow: 1px 1px 5px;
+  text-align: : center;
+}
+
+.inline-list {
+  list-style: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+
+.inline-list li{
+  display: inline;
+  padding: 10px;
+  font-size: large;
+}
+.table-head {
+  align-content: center;
+}
+
+.card {
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin: 10px;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#profile-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  align-items: center
+}
+
+.image-circle {
+  text-align: center;
+}
+
+.h2-artist {
+  text-align: center;
+  padding-left: 15px;
+}
+
+.p-song {
+  text-align: center;
+  padding-left: 15px;
+}
+
+a:hover{
+ color: rgba(236, 154, 41, 1);
+}
