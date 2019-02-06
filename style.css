@@ -1,7 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-family: 'Cabin', sans-serif;
-  color: rgba(66, 122, 161, 1) ;
+  background-image: url("images/daniel-roe-30147-unsplash.jpg");
+  background-size: cover;
 }
 
 h1 {
